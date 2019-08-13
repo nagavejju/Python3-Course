@@ -1,3 +1,11 @@
+# Python environment
+.Python
+/etc
+/bin
+/share
+/include
+/lib
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
